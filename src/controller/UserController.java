@@ -6,4 +6,8 @@ public class UserController {
 		System.out.println("Init all views");
 	}
 	
+	public void destroyAllViews() {
+		System.out.println("Destroy all views");
+	}
+	
 }
